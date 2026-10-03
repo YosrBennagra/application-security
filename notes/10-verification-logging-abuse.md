@@ -59,4 +59,4 @@ Never add the bearer token "for debugging."
 ## Related / Prerequisites
 
 - [testing-engineering](https://github.com/YosrBennagra/testing-engineering)
-- [devops-platform-engineering historical URL](https://github.com/YosrBennagra/devops-platform-engineering)
+- [DevOps/platform engineering](https://github.com/YosrBennagra/devops-platform-engineering-)
