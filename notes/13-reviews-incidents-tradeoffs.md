@@ -68,4 +68,4 @@ Required action: upgrade when patched release is available
 ## Related / Prerequisites
 
 - [software-architecture](https://github.com/YosrBennagra/software-architecture)
-- [devops-platform-engineering historical URL](https://github.com/YosrBennagra/devops-platform-engineering)
+- [DevOps/platform engineering](https://github.com/YosrBennagra/devops-platform-engineering-)
