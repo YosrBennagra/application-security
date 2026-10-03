@@ -59,4 +59,4 @@ The application never decrypts a password.
 
 ## Related / Prerequisites
 
-- [devops-platform-engineering historical URL](https://github.com/YosrBennagra/devops-platform-engineering)
+- [DevOps/platform engineering](https://github.com/YosrBennagra/devops-platform-engineering-)
