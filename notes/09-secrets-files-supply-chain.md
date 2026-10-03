@@ -51,5 +51,5 @@ A safe storage service generates its own filename and resolves against a fixed r
 
 ## Related / Prerequisites
 
-- [devops-platform-engineering historical URL](https://github.com/YosrBennagra/devops-platform-engineering)
+- [DevOps/platform engineering](https://github.com/YosrBennagra/devops-platform-engineering-)
 - [testing-engineering](https://github.com/YosrBennagra/testing-engineering)
