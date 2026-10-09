@@ -83,6 +83,6 @@ This repository is defensive. It explains vulnerabilities to help engineers prev
 - [software-engineer-roadmap](https://github.com/YosrBennagra/software-engineer-roadmap)
 - [spring-mastery](https://github.com/YosrBennagra/spring-mastery) — framework depth; this repo owns security reasoning.
 - [api-engineering](https://github.com/YosrBennagra/api-engineering) — API contracts; this repo owns security controls.
-- [DevOps/platform engineering](https://github.com/YosrBennagra/devops-platform-engineering-) — pipeline/runtime security.
+- [DevOps/platform engineering](https://github.com/YosrBennagra/devops-platform-engineering) — pipeline/runtime security.
 - [software-architecture](https://github.com/YosrBennagra/software-architecture) — boundaries and quality attributes.
 - [testing-engineering](https://github.com/YosrBennagra/testing-engineering) — broader verification strategy.
