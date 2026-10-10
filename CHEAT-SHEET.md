@@ -32,6 +32,7 @@ Least privilege · deny by default · minimise attack surface · defence in dept
 - Session cookie: `Secure`, `HttpOnly`, `SameSite=Lax/Strict`, narrow `Path`/`Domain`. Rotate the id on login/privilege change.
 - Don't keep bearer tokens in `localStorage` casually (XSS can read them). The BFF pattern keeps tokens server-side.
 - Logout/revocation: short-lived access tokens + revocable, rotated refresh tokens.
+- Strongest login: **passkeys** (WebAuthn/FIDO2, phishing-resistant) > TOTP MFA > SMS.
 
 ## OAuth 2 / OIDC / JWT
 | Term | One line |
@@ -41,7 +42,7 @@ Least privilege · deny by default · minimise attack surface · defence in dept
 | JWT | a token **format** (header.payload.signature), not an architecture |
 | Auth Code + **PKCE** | browser/mobile/SPA user login |
 | Client Credentials | service-to-service |
-| Implicit / Password grant | deprecated, don't use |
+| Implicit / Password grant | deprecated, don't use (OAuth Security BCP, RFC 9700) |
 - Validate the JWT: **signature** (allow-listed alg, never `none`), `iss`, `aud`, `exp`/`nbf`, token type. JWT payloads are **readable**, not encrypted.
 
 ## Crypto & credentials
