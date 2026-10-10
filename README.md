@@ -1,5 +1,7 @@
 # Application Security — 0 → Expert
 
+> **Cheat sheet:** [CHEAT-SHEET.md](CHEAT-SHEET.md) (dense one-to-two-page revision sheet to print and keep on the wall)
+
 Defensive application security for software engineers: principles, identity, browser/API security, secure coding, verification and senior-level trade-offs.
 
 Part of the interconnected **0 → expert software-engineering knowledge system**. Master index: [software-engineer-roadmap](https://github.com/YosrBennagra/software-engineer-roadmap).
